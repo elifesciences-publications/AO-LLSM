@@ -1,4 +1,8 @@
-    # AO-LLSM
+
+
+### This code is associated with the paper from Swinburne et al., "Lamellar projections in the endolymphatic sac act as a relief valve to regulate inner ear pressure". eLife, 2018. http://dx.doi.org/10.7554/eLife.37131
+
+# AO-LLSM
 Code for supporting AO-LLSM analysis
 
 Compilation: 
